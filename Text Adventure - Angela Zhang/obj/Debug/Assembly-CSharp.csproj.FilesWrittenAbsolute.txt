@@ -1,0 +1,14 @@
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/UnityEngine.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/UnityEditor.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mangela/Documents/GameDevFA16_Angela/Text Adventure - Angela Zhang/Temp/bin/Debug/Mono.Cecil.Mdb.dll
