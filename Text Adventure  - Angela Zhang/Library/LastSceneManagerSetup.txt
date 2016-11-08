@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Dog's Life.unity
+  isLoaded: 1
+  isActive: 1
